@@ -1,6 +1,7 @@
 # Table of contents
 
 * [簡介](README.md)
+* [1. Two Sum](1.-two-sum.md)
 * [2. Add Two Numbers](2.-add-two-numbers.md)
 * [4. Median of Two Sorted Arrays](4.-median-of-two-sorted-arrays.md)
 * [5. Longest Palindromic Substring](5.-longest-palindromic-substring.md)
@@ -68,6 +69,7 @@
 * [203. Remove Linked List Elements](203.-remove-linked-list-elements.md)
 * [205. Isomorphic Strings](205.-isomorphic-strings.md)
 * [206. Reverse Linked List](206.-reverse-linked-list.md)
+* [217. Contains Duplicate](217.-contains-duplicate.md)
 * [226. Invert Binary Tree](226.-invert-binary-tree.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](235.-lowest-common-ancestor-of-a-binary-search-tree.md)
 * [236. Lowest Common Ancestor of a Binary Tree](236.-lowest-common-ancestor-of-a-binary-tree.md)
