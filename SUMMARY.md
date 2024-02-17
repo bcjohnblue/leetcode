@@ -49,6 +49,7 @@
 * [111. Minimum Depth of Binary Tree](111.-minimum-depth-of-binary-tree.md)
 * [112. Path Sum](112.-path-sum.md)
 * [113. Path Sum II](113.-path-sum-ii.md)
+* [121. Best Time to Buy and Sell Stock](121.-best-time-to-buy-and-sell-stock.md)
 * [124. Binary Tree Maximum Path Sum](124.-binary-tree-maximum-path-sum.md)
 * [125. Valid Palindrome](125.-valid-palindrome.md)
 * [129. Sum Root to Leaf Numbers](129.-sum-root-to-leaf-numbers.md)
