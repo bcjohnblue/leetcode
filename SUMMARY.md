@@ -3,6 +3,7 @@
 * [簡介](README.md)
 * [1. Two Sum](1.-two-sum.md)
 * [2. Add Two Numbers](2.-add-two-numbers.md)
+* [3. Longest Substring Without Repeating Characters](3.-longest-substring-without-repeating-characters.md)
 * [4. Median of Two Sorted Arrays](4.-median-of-two-sorted-arrays.md)
 * [5. Longest Palindromic Substring](5.-longest-palindromic-substring.md)
 * [8. String to Integer (atoi)](8.-string-to-integer-atoi.md)
@@ -98,3 +99,4 @@
 * [383. Ransom Note](383.-ransom-note.md)
 * [387. First Unique Character in a String](387.-first-unique-character-in-a-string.md)
 * [392. Is Subsequence](392.-is-subsequence.md)
+* [424. Longest Repeating Character Replacement](424.-longest-repeating-character-replacement.md)
