@@ -85,6 +85,7 @@
 * [242. Valid Anagram](242.-valid-anagram.md)
 * [250. Count Univalue Subtrees](250.-count-univalue-subtrees.md)
 * [257. Binary Tree Paths](257.-binary-tree-paths.md)
+* [274. H-Index](274.-h-index.md)
 * [278. First Bad Version](278.-first-bad-version.md)
 * [290. Word Pattern](290.-word-pattern.md)
 * [297. Serialize and Deserialize Binary Tree](297.-serialize-and-deserialize-binary-tree.md)
