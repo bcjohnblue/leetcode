@@ -40,6 +40,8 @@
 * [87. Scramble String](87.-scramble-string.md)
 * [92. Reverse Linked List II](92.-reverse-linked-list-ii.md)
 * [94. Binary Tree Inorder Traversal](94.-binary-tree-inorder-traversal.md)
+* [95. Unique Binary Search Trees II](95.-unique-binary-search-trees-ii.md)
+* [96. Unique Binary Search Trees](96.-unique-binary-search-trees.md)
 * [98. Validate Binary Search Tree](98.-validate-binary-search-tree.md)
 * [100. Same Tree](100.-same-tree.md)
 * [101. Symmetric Tree](101.-symmetric-tree.md)
