@@ -106,3 +106,4 @@
 * [387. First Unique Character in a String](387.-first-unique-character-in-a-string.md)
 * [392. Is Subsequence](392.-is-subsequence.md)
 * [424. Longest Repeating Character Replacement](424.-longest-repeating-character-replacement.md)
+* [684. Redundant Connection](684.-redundant-connection.md)
