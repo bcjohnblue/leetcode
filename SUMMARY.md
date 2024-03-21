@@ -29,6 +29,7 @@
 * [49. Group Anagrams](49.-group-anagrams.md)
 * [53. Maximum Subarray](53.-maximum-subarray.md)
 * [54. Spiral Matrix](54.-spiral-matrix.md)
+* [56. Merge Intervals](54.-spiral-matrix-1.md)
 * [58. Length of Last Word](58.-length-of-last-word.md)
 * [59. Spiral Matrix II](59.-spiral-matrix-ii.md)
 * [73. Set Matrix Zeroes](73.-set-matrix-zeroes.md)
