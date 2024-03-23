@@ -32,6 +32,7 @@
 * [56. Merge Intervals](54.-spiral-matrix-1.md)
 * [58. Length of Last Word](58.-length-of-last-word.md)
 * [59. Spiral Matrix II](59.-spiral-matrix-ii.md)
+* [70. Climbing Stairs](59.-spiral-matrix-ii-1.md)
 * [73. Set Matrix Zeroes](73.-set-matrix-zeroes.md)
 * [74. Search a 2D Matrix](74.-search-a-2d-matrix.md)
 * [80. Remove Duplicates from Sorted Array II](80.-remove-duplicates-from-sorted-array-ii.md)
