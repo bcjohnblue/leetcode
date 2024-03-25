@@ -96,6 +96,7 @@
 * [297. Serialize and Deserialize Binary Tree](297.-serialize-and-deserialize-binary-tree.md)
 * [300. Longest Increasing Subsequence](300.-longest-increasing-subsequence.md)
 * [316. Remove Duplicate Letters](316.-remove-duplicate-letters.md)
+* [322. Coin Change](322.-coin-change.md)
 * [328. Odd Even Linked List](328.-odd-even-linked-list.md)
 * [329. Longest Increasing Path in a Matrix](329.-longest-increasing-path-in-a-matrix.md)
 * [337. House Robber III](337.-house-robber-iii.md)
